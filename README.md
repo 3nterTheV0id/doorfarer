@@ -31,7 +31,13 @@ booking link. It doesn't book hotels, and it isn't for a search from one airport
 | Tool | What it does |
 |---|---|
 | `find_trips` | Finds round or one-way trips from a home town to a destination (airport, city, country, region or "anywhere"), ranked by price, travel time or a balance. Read-only. |
+| `price_calendar` | Shows the cheapest month to go from a home town, per airport within reach, from the fares Doorfarer has seen. Instant, read-only. |
+| `trip_details` | Lays out one trip from `find_trips` step by step, door to door, with local times, the booking link and a calendar file (.ics). Read-only. |
 | `send_feedback` | Sends a short note to the maintainers when an answer looked wrong. |
+
+Two prompts, `plan_trip_from_home` and `cheapest_month`, start a search as slash commands, and hosts that render MCP
+Apps (Claude, ChatGPT, VS Code, Cursor) show the trips as a widget with booking buttons; every other host gets the
+same trips as text.
 
 ## Add it to your assistant
 

@@ -17,3 +17,10 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE DOCUMENTATION OR ITS USE.
 
 This license covers the files in this repository only. The Doorfarer service at https://doorfarer.com and its
 source code are not part of it.
+
+---
+
+The MIT license above covers the documentation and configuration files only. It does not grant any rights to the
+Doorfarer name, logo or icon (including icon.png), which identify the hosted service at doorfarer.com and may not be
+used in a way that suggests endorsement or a connection with Doorfarer. The Doorfarer service itself is not open
+source.

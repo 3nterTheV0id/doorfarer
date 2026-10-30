@@ -106,4 +106,5 @@ Others:
 
 ## License
 
-The documentation in this repository is MIT licensed (see `LICENSE`). The Doorfarer service is not open source.
+The documentation and configuration in this repository are MIT licensed (see `LICENSE`). The Doorfarer name and
+logo are not covered by that license, and the Doorfarer service is not open source.
